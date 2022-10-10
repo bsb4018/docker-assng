@@ -2,4 +2,4 @@
 docker images
 ```
 Show a list of Docker images available
-<img src="screenshots/s1.png" height=100 width=150>
+<img src="assignment-1/screenshots/s1.PNG">
