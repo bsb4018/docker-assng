@@ -12,4 +12,4 @@ Push the Fast-api hello world docker image to docker hub
 
 ![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-3/screenshots/s34.PNG)
 
-![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-3/screenshots/s36.PNG)
+![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-3/screenshots/s35.PNG)
