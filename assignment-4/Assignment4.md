@@ -11,3 +11,9 @@ The build and pushed repository in Dockerhub
 Pull the image from docker hub to local
 
 ![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-4/screenshots/s43.PNG)
+
+Run the pulled image locally
+
+![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-4/screenshots/s44.PNG)
+
+![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-4/screenshots/s45.PNG)
