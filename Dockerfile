@@ -14,4 +14,4 @@ RUN pip install -r /code/requirements.txt
 COPY ./app /code/app
 
 # Run the contianer - force port
-CMD ["uvicorn", "app.main:app", "--host", "127.0.0.1", "--port", "5050"]
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "5050"]
