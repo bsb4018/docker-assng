@@ -2,4 +2,4 @@
 docker images
 ```
 Show a list of Docker images available
-<img src="/screenshots/s1.PNG">
+![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-1/screenshots/s1.PNG)
