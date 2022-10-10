@@ -85,3 +85,55 @@ docker push [OPTIONS] NAME[:TAG]
 Push an image or a repository to a registry
 
 ![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-1/screenshots/s10.PNG)
+
+
+(11)
+```
+docker save <image-name>.tar <image-name> 
+
+```
+Save an image to a tar archive 
+
+![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-1/screenshots/s11.PNG)
+
+
+(12)
+```
+docker load --input <file-name>.tar
+
+```
+Read an image from tar archive file
+
+![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-1/screenshots/s12.PNG)
+
+
+
+(13)
+```
+docker login
+
+```
+Log in to a Docker registry
+
+![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-1/screenshots/s13.PNG)
+
+
+
+(14)
+```
+docker search [OPTIONS] TERM
+
+```
+Search the Docker Hub for images
+
+![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-1/screenshots/s14.PNG)
+
+
+(15)
+```
+docker diff CONTAINER
+
+```
+Inspect changes to files or directories on a container’s filesystem
+
+![image](https://github.com/bsb4018/docker-assng/blob/master/assignment-1/screenshots/s15.PNG)
